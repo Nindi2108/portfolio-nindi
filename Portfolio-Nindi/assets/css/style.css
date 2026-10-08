@@ -521,7 +521,7 @@ footer {
 
 .project-images img {
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.15s;
 }
 
 .project-images img:hover {
